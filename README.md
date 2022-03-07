@@ -14,4 +14,6 @@
  * [Nacor Sellés](https://nacorselles.github.io/p13_constructivisme/)
  * [Maria Mira](https://mariamira20.github.io/p13_constructivismo/)
  * [Abril Mullor](https://abrilmullor.github.io/p14_js_vanguardias/)
+ * [Pau Coello](https://yoruneko482.github.io/p13_posicio-absoluta/)
+ * [Denis Gibert](https://thicclemon.github.io/p10_constructivismo/)
 
