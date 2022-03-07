@@ -10,5 +10,6 @@
  * ---
  * [Zineb Semmouzi](https://zinebsb.github.io/p14_cartel/)
  * [lucía guilló](https://luciaguillo.github.io/p15_constructivismo/)
-
+ * [Ana Mora](https://moravavi.github.io/p13_avantguardes/)
+ * [Nacor Sellés](https://nacorselles.github.io/p13_constructivisme/)
 
