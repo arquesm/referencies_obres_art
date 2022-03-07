@@ -12,4 +12,5 @@
  * [lucía guilló](https://luciaguillo.github.io/p15_constructivismo/)
  * [Ana Mora](https://moravavi.github.io/p13_avantguardes/)
  * [Nacor Sellés](https://nacorselles.github.io/p13_constructivisme/)
+ * [Maria Mira](https://mariamira20.github.io/p13_constructivismo/)
 
