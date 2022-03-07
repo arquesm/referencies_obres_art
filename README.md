@@ -7,3 +7,5 @@
  * [Adrian Gómez](https://adriangomezbellido.github.io/p14_js_vanguardias/)
  * [Noelia Saa](https://noeliasaa.github.io/p13_avantguardes/)
  * [Bertó Sandra](https://sanbg8.github.io/p13_avantguardes/)
+ * ---
+ * [Zineb Semmouzi](https://zinebsb.github.io/p14_cartel/)
